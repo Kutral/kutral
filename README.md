@@ -49,8 +49,7 @@
 
 ## 📫 Reach Me
 
-📧 Email: *(add your email)*  
-🔗 LinkedIn: *(optional)*  
+📧 Email: *(Kutraleeswaran2003@gmail.com)*   
 
 ---
 
