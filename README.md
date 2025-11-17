@@ -1,4 +1,5 @@
-# 👋 Hey, I’m **Eswar**
+# 👋 Hey, I’m **Kutraleeswaran**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Solving+problems%2C+one+bug+at+a+time;Java+%7C+Debugging+%7C+System+Design;I+love+breaking+%26+fixing+things;Open+to+collaborate+%26+learn)](https://git.io/typing-svg)
 
 🤖 **Aspiring Software Engineer**  
 💻 Passionate about **Java, Debugging, System Design, and Backend Development**  
