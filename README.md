@@ -49,7 +49,8 @@
 
 ## 📫 Reach Me
 
-📧 Email: *(Kutraleeswaran2003@gmail.com)*   
+📧 Email: **Kutraleeswaran2003@gmail.com**  
+🔗 Portfolio: **https://kutral.github.io/resume/**  
 
 ---
 
