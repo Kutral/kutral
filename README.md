@@ -42,9 +42,33 @@
 
 ## 📌 Projects
 
-- **Bus Booking System (Java Console App)** – Menu-driven design with user login, booking, and admin control  
-- **Java OOP Mini Projects** – Practicing classes, interfaces, and design patterns  
-- *(More will be added soon!)*
+Below are some projects and repositories I'm working on or have built. Click the repo name to explore the code.
+
+- Bus Booking System (Java Console App) — Menu-driven Java console application with user login, booking features, and admin controls. Good practice for OOP, file I/O, and program flow.
+- Java OOP Mini Projects — A set of small Java projects that focus on classes, interfaces, and common design patterns to reinforce OOP fundamentals.
+
+Other public repositories:
+- Kutral/todo — https://github.com/Kutral/todo  
+  A TypeScript-focused todo project (TypeScript-heavy repository). Great for practicing application state, UI behavior, and TypeScript patterns.  
+  - Live demo (GitHub Pages): https://kutral.github.io/todo/ — Give the Todo app a try and share feedback!
+
+- Kutral/3d — https://github.com/Kutral/3d  
+  3D web experiments and visual work (predominantly TypeScript with GLSL and web assets). Exploration of WebGL/3D rendering and shaders.  
+  - Live demo (GitHub Pages): https://kutral.github.io/3d/ — Try the 3D experiments and interact with the visuals!
+
+- Kutral/Portfolio — https://github.com/Kutral/Portfolio  
+  My personal portfolio site (JavaScript, CSS, HTML) showcasing projects and resume links.  
+  - Live site (GitHub Pages): https://kutral.github.io/resume/ — Check out the portfolio and try the interactive sections!
+
+- Kutral/resume — https://github.com/Kutral/resume  
+  My resume site (HTML) hosted on GitHub Pages.  
+  - Live site (GitHub Pages): https://kutral.github.io/resume/ — View my resume and experience online!
+
+- Kutral/Online-Voting-System — https://github.com/Kutral/Online-Voting-System  
+  A web voting system project (HTML + Python) — practice building simple web applications and backend logic.
+
+(More projects will be added as I keep building and learning.)
+
 
 ---
 
