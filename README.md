@@ -62,7 +62,7 @@ A collection of small Java apps to practice OOP, interfaces, patterns, and syste
 ## 🌐 Live Projects
 
 ### ✔️ **Todo App**
-Live: https://kutral.github.io/todo/  
+Live: [https://kutral.github.io/todo/](https://github.com/Kutral/todo)  
 A clean, TypeScript-based todo app focusing on UI behavior and state management.
 
 ---
@@ -85,8 +85,13 @@ Simple HTML-based resume hosted online.
 
 ---
 
-### ✔️ **Online Voting System**  
-Practice project for learning full-stack basics with HTML + Python.
+### ✔️ **Knowledge Nexus – Library Management System**
+Live: https://libraryfrontend-1ter.onrender.com  
+Web application built using Java Servlets, JSP, and MySQL.
+
+- Built user login and book management modules using Servlets, JSP, and JDBC.  
+- Implemented REST APIs for all book CRUD and borrow/return operations; frontend and backend communicate strictly via JSON-based API calls.  
+- Designed MySQL schema and used PreparedStatements for secure and efficient database access.
 
 ---
 
