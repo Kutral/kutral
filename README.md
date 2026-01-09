@@ -108,8 +108,4 @@ A collection of small Java apps to practice OOP, interfaces, patterns, and syste
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kutraleeswaran2003@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white)](https://kutral.github.io/3d)
 
-<br>
-
-<i>"Debugging feels like solving a puzzle — I enjoy breaking & fixing things"</i>
-
 </div>
