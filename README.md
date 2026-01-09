@@ -9,9 +9,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=Kutral&label=Profile%20Views&color=12&icon=5&pretty=true)](https://github.com/Kutral)
 
-</div>
 
----
+
 
 <div align="center">
 
