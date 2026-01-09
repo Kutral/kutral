@@ -9,12 +9,13 @@
 
 [![](https://visitcount.itsvg.in/api?id=Kutral&label=Profile%20Views&color=12&icon=5&pretty=true)](https://github.com/Kutral)
 
+</div>
 
-
-
-<div align="center">
+---
 
 ## 🛠 Tech Stack
+
+<div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,15 +52,12 @@
 ## 📌 Featured Project
 
 ### **📚 Library Management System**
-<div align="left">
-  
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-000000?style=flat-square&logo=eclipse&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-
-</div>
 
 > A professional, full-stack library management solution with a modern glassmorphism interface and a robust enterprise-grade backend.
 
@@ -100,9 +98,9 @@ A collection of small Java apps to practice OOP, interfaces, patterns, and syste
 
 ---
 
-<div align="center">
-
 ## 📫 Reach Me
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kutraleeswaran2003@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white)](https://kutral.github.io/3d)
